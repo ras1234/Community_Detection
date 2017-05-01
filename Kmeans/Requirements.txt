@@ -1,0 +1,7 @@
+Installation required:
+
+python2
+ipython notebook
+numpy
+sklearn
+

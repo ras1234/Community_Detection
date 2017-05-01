@@ -1,0 +1,7 @@
+Installation required to run a LA_IS.py file:
+
+pip install python 
+pip install community
+pip install networkx
+pip install numpy
+ 
