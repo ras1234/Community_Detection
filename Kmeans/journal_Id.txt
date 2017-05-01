@@ -1,0 +1,204 @@
+ACM Crossroads#152
+ACM Trans. Inf. Syst. Secur.#183
+ACM Trans. Spatial Algorithms and Systems#1
+AI Commun.#167
+APJOR#165
+Acta Inf.#0
+Ad Hoc amp Sensor Wireless Networks#179
+Adv. Human-Computer Interaction#130
+Algorithmica#71
+Ann. Pure Appl. Logic#151
+Annales des Teacuteleacutecommunications#187
+Annual Reviews in Control#180
+Appl. Algebra Eng. Commun. Comput.#123
+Applied Categorical Structures#32
+Automatica#42
+Axioms#98
+BMC Medical Imaging#61
+Bulletin of Symbolic Logic#44
+CVGIP: Graphical Model and Image Processing#57
+Cluster Computing#132
+Combinatorica#29
+Comp. Int. and Neurosc.#172
+Comput. Sci. Inf. Syst.#137
+Computability#195
+Computational Statistics amp Data Analysis#21
+Computer Graphics and Image Processing#55
+Computer Music Journal#177
+Computer Physics Communications#157
+Computer Science Education#108
+Computer Science Review#192
+Computer Vision, Graphics, and Image Processing#56
+Computer and Information Science#36
+Computers#84
+Computers in Industry#4
+Cybernetics and Human Knowing#169
+Cybernetics and Systems#145
+D-Lib Magazine#155
+Decision Support Systems#173
+Displays#2
+EAI Endorsed Trans. Ambient Systems#35
+EAI Endorsed Trans. Ubiquitous Environments#168
+EJIS#41
+ERCIM News#25
+EURASIP J. Audio, Speech and Music Processing#111
+Earth Science Informatics#154
+Eng. Appl. of AI#160
+Enterprise Modelling and Information Systems Architectures#139
+Expert Systems#91
+FO amp DM#99
+Formal Methods in System Design#74
+Foundations and Trends in Databases#80
+Foundations and Trends in Electronic Design Automation#199
+Foundations and Trends in Programming Languages#20
+Foundations and Trends in Signal Processing#52
+Foundations of Computational Mathematics#156
+Front. Comput. Neurosci.#75
+Frontiers of IT amp EE#54
+Future Generation Comp. Syst.#6
+Game Studies#10
+Genetic Programming and Evolvable Machines#189
+GeoInformatica#181
+Grammars#164
+Graphical Models#58
+Graphical Models and Image Processing#59
+Groups Complexity Cryptology#65
+Higher-Order and Symbolic Computation#13
+I. J. Artificial Intelligence in Education#17
+ICST Trans. Ambient Systems#34
+IEE Proceedings - Software#149
+IEEE Access#38
+IEEE J. Biomedical and Health Informatics#117
+IEEE Security amp Privacy#94
+IEEE Software#200
+IEEE T. Haptics#83
+IEEE T. Human-Machine Systems#48
+IEEE Trans. Biomed. Circuits and Systems#122
+IEEE Trans. Education#103
+IEEE Trans. Knowl. Data Eng.#12
+IEEE Trans. Multi-Scale Computing Systems#185
+IEEE Trans. Neural Netw. Learning Syst.#105
+IEEE Trans. VLSI Syst.#193
+IEEE Transactions on Information Forensics and Security#49
+IEEE Transactions on Information Technology in Biomedicine#116
+IEEE Transactions on Neural Networks#106
+IEICE Electronic Express#128
+IET Software#148
+IJAMC#40
+IJANTTI#46
+IJARAS#190
+IJCINI#184
+IJCIP#176
+IJCLCLP#198
+IJCOPI#113
+IJDAR#138
+IJDSN#142
+IJEA#9
+IJEBR#16
+IJEP#93
+IJERTCS#141
+IJHCITP#85
+IJHCR#174
+IJHISI#62
+IJICST#33
+IJIEI#27
+IJITM#144
+IJKDB#3
+IJMMME#197
+IJMOR#171
+IJMSTR#50
+IJPOP#107
+IJSDS#161
+IJSI#202
+IJSIR#95
+IJSNM#143
+IJTHI#64
+IJTM#11
+IJWMIP#28
+IJWP#47
+IMA J. Math. Control amp Information#201
+INFORMS Journal on Computing#194
+Inf. Retr.#121
+Inf. Retr. Journal#120
+Informatics in Education#134
+Ingeacutenierie des Systegravemes d'Information#118
+Int. Arab J. Inf. Technol.#31
+Int. J. Adv. Comp. Techn.#196
+Int. J. Cooperative Inf. Syst.#30
+Int. J. Game Theory#101
+Int. J. Pervasive Computing and Communications#100
+Int. Journal in Computer Simulation#70
+Intelligence#68
+Intelligent Decision Technologies#90
+Interacting with Computers#188
+International Journal of Internet and Enterprise Management#5
+International Journal of Software Engineering and Knowledge Engineering#72
+J. Comb. Optim.#175
+J. Comput. Physics#79
+J. Comput. Sci. Technol.#89
+J. Cryptology#78
+J. Data Semantics#26
+J. Database Manag.#133
+J. Electron. Commerce Res.#112
+J. Formalized Reasoning#24
+J. Information Security#43
+J. Low Power Electronics#125
+J. Multimodal User Interfaces#166
+J. Parallel Distrib. Comput.#159
+J. Sensor Technology#86
+JACIII#97
+JASIS#136
+JASIST#135
+JCIT#182
+JOCCH#45
+JOOP#126
+JTHTL#119
+JUSPN#39
+Journal of Circuits, Systems, and Computers#73
+Journal of Computer Security#77
+Journal of Graph Theory#140
+Journal of Intelligent and Fuzzy Systems#19
+Journal of Zhejiang University - Science C#53
+Knowl.-Based Syst.#15
+Kognitionswissenschaft#146
+Linguamaacutetica#51
+Lisp and Symbolic Computation#14
+Markup Languages#18
+Math. Log. Q.#82
+Math. Program. Comput.#114
+Meth. of Logic in CS#104
+Microelectronics Reliability#162
+Multimedia Syst.#153
+Neural Parallel amp Scientific Comp.#110
+Notre Dame Journal of Formal Logic#163
+OR Insight#115
+Object Oriented Systems#8
+Operating Systems Review#158
+Peer-to-Peer Networking and Applications#102
+Personal and Ubiquitous Computing#87
+Rel. Eng. amp Sys. Safety#131
+Research and Practice in Technology Enhanced Learning#191
+Robotersysteme#69
+SIAM J. Scientific Computing#81
+SIGART Bulletin#67
+SIGART Newsletter#66
+SIGSPATIAL Special#88
+Smart CR#37
+Software Engineering - IEE Proceedings#150
+Software Engineering Journal#147
+Statistical Analysis and Data Mining#109
+Synthese#92
+T. HiPEAC#60
+T. Petri Nets and Other Models of Concurrency#76
+TACO#63
+TIIS#203
+Telematics and Informatics#7
+The Review of Socionetwork Strategies#127
+Transactions on Pattern Languages of Programming#170
+Web Intelligence#23
+Web Intelligence and Agent Systems#22
+Webology#178
+Wireless Communications and Mobile Computing#124
+World Digital Libraries#96
+iJEP#129
+iJIM#186
