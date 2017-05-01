@@ -1,0 +1,163 @@
+m: 44220.000000
+no of comp: 2455
+current modularity: 0.996704
+no of comp: 2456
+current modularity: 0.996721
+no of comp: 2457
+current modularity: 0.996657
+no of comp: 2458
+current modularity: 0.996580
+no of comp: 2459
+current modularity: 0.996388
+no of comp: 2460
+current modularity: 0.996292
+no of comp: 2462
+current modularity: 0.996085
+no of comp: 2463
+current modularity: 0.995913
+no of comp: 2464
+current modularity: 0.995810
+no of comp: 2465
+current modularity: 0.995704
+no of comp: 2466
+current modularity: 0.995504
+no of comp: 2467
+current modularity: 0.995397
+no of comp: 2469
+current modularity: 0.995178
+no of comp: 2471
+current modularity: 0.994960
+no of comp: 2472
+current modularity: 0.994851
+no of comp: 2473
+current modularity: 0.994742
+no of comp: 2474
+current modularity: 0.994530
+no of comp: 2475
+current modularity: 0.994311
+no of comp: 2476
+current modularity: 0.994090
+no of comp: 2478
+current modularity: 0.993659
+no of comp: 2480
+current modularity: 0.993222
+no of comp: 2484
+current modularity: 0.992465
+no of comp: 2488
+current modularity: 0.992019
+no of comp: 2490
+current modularity: 0.991797
+no of comp: 2492
+current modularity: 0.991575
+no of comp: 2495
+current modularity: 0.991241
+no of comp: 2497
+current modularity: 0.990912
+no of comp: 2498
+current modularity: 0.990692
+no of comp: 2500
+current modularity: 0.990359
+no of comp: 2501
+current modularity: 0.990248
+no of comp: 2502
+current modularity: 0.990028
+no of comp: 2578
+current modularity: 0.972401
+no of comp: 2579
+current modularity: 0.972291
+no of comp: 2642
+current modularity: 0.958197
+no of comp: 2645
+current modularity: 0.957861
+no of comp: 2647
+current modularity: 0.957418
+no of comp: 2649
+current modularity: 0.957195
+no of comp: 2698
+current modularity: 0.946208
+no of comp: 2744
+current modularity: 0.936000
+no of comp: 2787
+current modularity: 0.926349
+no of comp: 2794
+current modularity: 0.925230
+no of comp: 2837
+current modularity: 0.915910
+no of comp: 2876
+current modularity: 0.907148
+no of comp: 2913
+current modularity: 0.898835
+no of comp: 2916
+current modularity: 0.898498
+no of comp: 2919
+current modularity: 0.898161
+no of comp: 2953
+current modularity: 0.890516
+no of comp: 2954
+current modularity: 0.890292
+no of comp: 2959
+current modularity: 0.889729
+no of comp: 2988
+current modularity: 0.883203
+no of comp: 2990
+current modularity: 0.882978
+no of comp: 3098
+current modularity: 0.857996
+no of comp: 3125
+current modularity: 0.851133
+no of comp: 3126
+current modularity: 0.851021
+no of comp: 3156
+current modularity: 0.844718
+no of comp: 3160
+current modularity: 0.844268
+no of comp: 3184
+current modularity: 0.838972
+no of comp: 3266
+current modularity: 0.822296
+no of comp: 3323
+current modularity: 0.809447
+no of comp: 3364
+current modularity: 0.800769
+no of comp: 3398
+current modularity: 0.793102
+no of comp: 3410
+current modularity: 0.791412
+no of comp: 3506
+current modularity: 0.770433
+no of comp: 3521
+current modularity: 0.767162
+no of comp: 3560
+current modularity: 0.758361
+no of comp: 3646
+current modularity: 0.741211
+no of comp: 3668
+current modularity: 0.736245
+no of comp: 3723
+current modularity: 0.725184
+no of comp: 3815
+current modularity: 0.706443
+no of comp: 3855
+current modularity: 0.698652
+no of comp: 3856
+current modularity: 0.698540
+no of comp: 3940
+current modularity: 0.679340
+no of comp: 4066
+current modularity: 0.659119
+no of comp: 4067
+current modularity: 0.659006
+no of comp: 4142
+current modularity: 0.642060
+no of comp: 4322
+current modularity: 0.612342
+no of comp: 4475
+current modularity: 0.586234
+no of comp: 5103
+current modularity: 0.491731
+no of comp: 7431
+current modularity: -0.000617
+real	102m48.483s
+user	95m25.684s
+sys	0m1.128s
+
